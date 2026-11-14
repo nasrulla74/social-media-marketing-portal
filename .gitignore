@@ -1,0 +1,13 @@
+.DS_Store
+node_modules/
+.next/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.venv/
+venv/
+coverage/
+/dist/
+backend/portal.db
